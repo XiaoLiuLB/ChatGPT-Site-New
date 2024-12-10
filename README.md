@@ -1,6 +1,6 @@
 # 最新的 ChatGPT 镜像网站免费分享（支持GPT-4o、GPT-4、GPT-o1）
 
-> 2024/12/08 最后更新 ChatGPT镜像网站：https://chatgpt.lanjing.ai/
+> 2024/12/10 最后更新 ChatGPT镜像网站：https://chatgpt.lanjing.ai/
 
 免费分享多个国内 **ChatGPT 镜像网站**，无需翻墙、无需魔法、无需注册账号，直接使用。让用户在正常网络下也能访问 **ChatGPT 镜像站**
 
